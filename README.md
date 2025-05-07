@@ -1,1 +1,3 @@
-# jrdc2-server-secure-sessions-b4j
+# sdbs-b4j
+
+Secure database server in B4J
