@@ -1,5 +1,5 @@
-# sdbs-b4j
+# jrdc2-with-session-b4j
 
-Secure database server in B4J
+jRDC2 Server with session (proof of concept)
 
-A proof of concept how to generate a session ID after successful login for client to make further requests. 
+Demonstrate how to generate a session ID after successful login as client to make further requests. 
